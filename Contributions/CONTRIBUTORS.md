@@ -13,3 +13,4 @@ There might or might not be errors in the programs provided in this repository. 
 Add your name and link to your GitHub account below after you have contributed to this repository.
 
 1. Kathan Desai [GitHub Account](https://www.github.com/kathan3009)
+2. Pancham Agarwal [GitHub Account](https://www.github.com/pancham1603)
